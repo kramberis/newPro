@@ -9,7 +9,16 @@
 </head>
 
 <body>
-    <h1>hi =))</h1>
+    <?php
+    $vardas - "Kristina";
+    $pavarde - "Cerne";
+    $gimData - 1998;
+    $sieMetai - 2022;
+
+    echo "As esu" . $vardas. $pavarde. "Man yra" . $sieMetai - $gimData. "metai(ų)";
+
+    ?>
+
 </body>
 
 </html>
